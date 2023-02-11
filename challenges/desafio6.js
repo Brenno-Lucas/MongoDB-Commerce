@@ -1,4 +1,3 @@
-
 db.produtos.find(
   {
     curtidas: {
